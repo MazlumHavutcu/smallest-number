@@ -4,7 +4,7 @@ This application is packaged as a war which has Tomcat embedded. No Tomcat or JB
 
 
 You can build the project and run the tests by running mvn clean package
-Once successfully built, you can run the service by one of these two methods:
+Once successfully built, you can run the service by this method:
 
 java -jar europeane.jar
 
